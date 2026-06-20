@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">UAS_PEMROGRAMAN_MOBILE</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Please sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_have_account">Don\'t have an account? Sign Up</string>
+
+    <string name="signup_title">Create Account</string>
+    <string name="signup_subtitle">Start your journey with us</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <!-- Biodata Strings -->
+    <string name="biodata_title">Biodata Pengguna</string>
+    <string name="age">Usia</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="height">Tinggi Badan (cm)</string>
+    <string name="weight">Berat Badan (kg)</string>
+    <string name="activity_goal">Aktivitas yang Ingin Dilakukan</string>
+    <string name="save_biodata">Simpan Biodata</string>
+
+    <!-- Main Display Strings -->
+    <string name="profile_title">Profil Pengguna</string>
+    <string name="user_info_format">Usia: %1$s thn | %2$s\nTB: %3$s cm | BB: %4$s kg</string>
+    <string name="user_activity_format">Aktivitas: %1$s</string>
+    <string name="water_progress_format">%1$d / %2$d gelas</string>
+    <string name="remaining_format">✅ +1 Gelas! Sisa %1$d gelas lagi.</string>
+
+    <string name="age_unit">%1$s Tahun</string>
+    <string name="height_unit">%1$s cm</string>
+    <string name="weight_unit">%1$s kg</string>
+    <string name="activity_level_label">Tingkat Aktivitas</string>
+
+    <!-- Log Harian -->
+    <string name="log_title">Log Aktivitas Harian</string>
+    <string name="select_date">Pilih Tanggal</string>
+    <string name="water_intake_hint">Jumlah Minum (Gelas)</string>
+    <string name="activity_hint">Aktivitas yang Dilakukan</string>
+    <string name="save_log">Simpan Log Hari Ini</string>
+    <string name="back_to_profile">Kembali ke Profil</string>
+    <string name="log_for_format">Log untuk: %1$s</string>
+    <string name="data_saved_successfully">Data tersimpan untuk %1$s</string>
+    <string name="fill_water_intake">Isi jumlah minum</string>
+
+    <!-- Edit Profile -->
+    <string name="edit_biodata_title">Edit Biodata &amp; Aktivitas</string>
+    <string name="save_changes">Simpan Perubahan</string>
+    <string name="cancel">Batal</string>
+    <string name="data_updated_successfully">Data Berhasil Diperbarui!</string>
+    <string name="pick_gender">Pilih jenis kelamin</string>
+    <string name="age_required">Usia wajib diisi</string>
+    <string name="height_required">Tinggi badan wajib diisi</string>
+    <string name="weight_required">Berat badan wajib diisi</string>
+    <string name="activity_required">Aktivitas wajib diisi</string>
+
+    <!-- Water Reminder (Activity 7) -->
+    <string name="smart_reminder">Pengingat Pintar</string>
+    <string name="it_is_time_to_drink">Waktunya minum air!</string>
+    <string name="water_progress_ml_format">%1$d/%2$dml</string>
+    <string name="add_water_amount">200 ml</string>
+    <string name="drink_now">Minum Air Sekarang</string>
+    <string name="calendar_tracking">Kalender Pelacakan Air</string>
+    <string name="data_for_label">Data untuk: %1$s</string>
+    <string name="total_drink_label">Total Minum: %1$s ml</string>
+    <string name="activity_label">Aktivitas: %1$s</string>
+    <string name="ml_unit">%1$dml</string>
+    <string name="back">Kembali</string>
+</resources>

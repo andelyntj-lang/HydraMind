@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingVertical="12dp"
+    android:paddingHorizontal="8dp"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@android:drawable/ic_menu_edit"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="Icon" />
+
+    <TextView
+        android:id="@+id/tvIntakeTime"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="10:30"
+        android:textSize="16sp"
+        android:textColor="#333333" />
+
+    <TextView
+        android:id="@+id/tvIntakeAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="200ml"
+        android:textSize="16sp"
+        android:textColor="#757575"
+        android:layout_marginEnd="8dp"/>
+
+    <ImageButton
+        android:id="@+id/btnDeleteIntake"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@android:drawable/ic_menu_delete"
+        android:contentDescription="Delete"
+        android:tint="@android:color/holo_red_dark" />
+
+</LinearLayout>

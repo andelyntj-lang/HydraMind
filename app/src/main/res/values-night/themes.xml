@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme forced to Light even in night mode. -->
+    <style name="Base.Theme.UAS_PEMROGRAMAN_MOBILE" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>

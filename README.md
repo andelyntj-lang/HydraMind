@@ -1,7 +1,32 @@
-1.	Cici Febriana	(TI1024036)
-2.	Andelyn Threesna Jannah	(TI1024037)
-3.	Lulu Nur Aini	(TI1024042)
-4.	Saskia Noviyanti	(TI1024045)
-5.	Dewi Diva Fadhilah	(TI1024088)
+Fitur Aplikasi
+- Pengingat minum air otomatis
+- Riwayat konsumsi air
+- Tracking jumlah air harian
+- Notifikasi pengingat
 
-HydraMind adalah aplikasi asisten kesehatan pintar yang dirancang untuk menjaga hidrasi tubuh tetap optimal di tengah padatnya aktivitas harian melalui fitur pengingat minum air putih yang terjadwal secara cerdas. Aplikasi ini mempermudah pengguna untuk memantau asupan air harian dengan dukungan sistem manajemen akun yang ringkas melalui fitur registrasi dan login yang intuitif. Dengan fokus pada kemudahan penggunaan dan fungsionalitas, HydraMind hadir sebagai solusi praktis bagi siapa saja yang ingin membangun kebiasaan sehat dan memastikan tubuh selalu mendapatkan cairan yang cukup demi menjaga performa fisik serta mental yang maksimal setiap hari.
+Tech Stack & Library
+- Java / Kotlin
+- Android Studio
+- SQLite / Firebase (pilih sesuai yang kamu pakai)
+- RecyclerView
+- Material Design Components
+- Notification Manager
+
+Cara Menjalankan Aplikasi
+
+1. Clone repository
+bash git clone https://github.com/andelyntj-lang/HydraMind.git
+2. Buka project di Android Studio
+3. Sync Gradle
+4. Jalankan di emulator atau device Android
+
+APK Release
+APK sudah tersedia di repository:
+- app-release.apk
+
+Demo Aplikasi
+Link demo video:
+- (https://drive.google.com/file/d/1bpo_JhZsPbFegZ3lUBKiyGQbeoZ62rkI/view?usp=drive_link)
+
+Tujuan Aplikasi
+HydraMind dibuat untuk membantu pengguna membangun kebiasaan minum air secara teratur melalui sistem pengingat otomatis.
